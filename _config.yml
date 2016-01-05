@@ -1,0 +1,3 @@
+name: Edward Zambrano, Personal site
+markdown: kramdown
+permalink: :year/:month/:day/:title
